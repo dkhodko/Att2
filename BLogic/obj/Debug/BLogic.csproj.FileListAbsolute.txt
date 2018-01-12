@@ -1,0 +1,11 @@
+F:\Att_2\Att_2\BLogic\bin\Debug\BLogic.dll
+F:\Att_2\Att_2\BLogic\bin\Debug\BLogic.pdb
+F:\Att_2\Att_2\BLogic\obj\Debug\BLogic.csprojResolveAssemblyReference.cache
+F:\Att_2\Att_2\BLogic\obj\Debug\BLogic.dll
+F:\Att_2\Att_2\BLogic\obj\Debug\BLogic.pdb
+E:\Att_2\Att_2\BLogic\bin\Debug\BLogic.dll
+E:\Att_2\Att_2\BLogic\bin\Debug\BLogic.pdb
+E:\Att_2\Att_2\BLogic\obj\Debug\BLogic.csprojResolveAssemblyReference.cache
+E:\Att_2\Att_2\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+E:\Att_2\Att_2\BLogic\obj\Debug\BLogic.dll
+E:\Att_2\Att_2\BLogic\obj\Debug\BLogic.pdb
